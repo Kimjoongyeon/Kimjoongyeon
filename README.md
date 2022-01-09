@@ -1,4 +1,4 @@
-### 안녕하세요 반갑습니다! 👋
+### 안녕하세요! 👋
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimjoongyeon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
