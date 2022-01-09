@@ -1,7 +1,7 @@
 ### 안녕하세요! 👋
 
 ### 기술스택
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=&logoColor=white"/></a>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimjoongyeon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
