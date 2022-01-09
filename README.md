@@ -1,7 +1,5 @@
 ### 안녕하세요! 👋
 
-### 기술스택
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimjoongyeon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
