@@ -3,7 +3,7 @@
 ### 기술스택
 - Server
 - <img src="https://img.shields.io/badge/brightgreen?style=flat-square&logo=simpleicons#6DB33F&logoColor=white"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons#6DB33F&logoColor=white"/></a>&nbsp 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimjoongyeon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
